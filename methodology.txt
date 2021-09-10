@@ -1,0 +1,15 @@
+===========
+Methodology
+===========
+
+In this section, the Android platform, Google Firebase, the different API's being used are discussed.
+
+-------
+Android
+-------
+
+---------------
+Google Firebase
+---------------
+
+Google firebase is a Backend-as-a-Service (Baas) which provides a number of tools and services to assist developers create high-quality apps, expand their user base, and generate revenue. It is built on Google's technology. Firebase is a NoSQL database program that saves information in JSON-like documents.
