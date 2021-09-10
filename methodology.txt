@@ -7,7 +7,7 @@ In this section, the Android platform, Google Firebase, the different API's and 
 -------
 Android
 -------
-
+According to the recent survey, Google's Android Operating System holds a staggering 42.61% for the worldwide usage share. This proves the influence that Android has on the technological world and because Android is an open-source operating system, it may be found on even the most basic cell phones. As a result, people in even the most remote locations can now access the internet and use reliable location services, which this system utilises and can provide assisstance to anyone in distress due to vehicluar troubles and integrate the various possible support that can be provided during the trip.
 
 ---------------
 Google Firebase
@@ -29,3 +29,7 @@ Mapbox Matrix API is a service provided by Mapbox Navigation Services which retu
 Algorithm Flow
 --------------
 The service request from the user is taken and the cloud function filters out the service providers based on the state, district and the particular area attached along with the location details provided by the user. The filtered service providers are passed through the Mapbox Matrix API which provides the optimal set of service providers based on the time and duration to assist the user. The information is then processed to find the the ideal service provider based on their service rating, promixity to the user, and their expertise. This service provider is then assigned to the user and the their details are shared with the user for assurance.
+
+------
+Design
+------
