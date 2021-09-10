@@ -4,8 +4,6 @@ Introduction
 
 In a densely populated country like India, where the number of motor vehicles on the road grows at a rapid rate, one of the possible issues that the country faces is providing roadside assistance in remote areas. Because India has a relatively high car density, there is a higher probability of a vehicle breaking down on the road and not receiving the necessary assistance. There are several service providers in various parts of the country, but they are render useless when they are most needed since the person in distress is unaware of their existence. In other cases, these service providers are only present in well-developed areas of the country, and many of them are unable to assist people because of the long distances. The main difficulty that modern India faces is the lack of a proper network of qualified service providers and the information required to approach them in times of distress.
 
-According to the recent survey, Google's Android Operating System holds a staggering 42.61% for the worldwide usage share. 
-
 1.1 Existing System
  > The existing systems runs on the nearby location information data provided by Google Places API and uses the device location services to obtain the user's location.
  > It only provides details about the potential nearby services available.
