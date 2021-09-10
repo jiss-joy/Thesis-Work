@@ -1,0 +1,17 @@
+==========
+References
+==========
+
+[1] Ajith Kumaar. D, Balakrishnan, Sree Subha. S, Harin.K , "On Road Vehicle Service Finder", InternationalJournal of Scientific Research in Computer Science,Engineering and Information Technology(IJSRCSEIT), ISSN : 2456-3307, Volume 5 Issue 2, pp.929-936, March-April 2019.
+
+[2] Varun Kapadi, Saigita Guruju, Bhupesh Bojja, Prof. Nilima Nikam, “Emergency Breakdown Services using Android Application”, International Research Journal of Engineering and Technology (IRJET), ISSN : 2395 -0056, Volume 4 Issue 2, April 2017.
+
+[3] Safdar, Saima & Zeb, Anwar & Khan, Ajmal & Kaleem, Zeeshan, (2018), "Android based vehicle tracking system", EAI Endorsed Transactions on Energy ,Web. 5. 154447. 10.4108/eai.10-4-2018.154447. 
+
+[4] Wang, Y., Li, J., Zhao, X. et al. "Using Mobile Phone Data for Emergency Management: a Systematic Literature Review", Inf Syst Front 22, 1539–1559 (2020).
+
+[5] Elakkiya R,Bavithra M, "ON ROAD VEHICLE BREAKDOWN SERVICES", International Journal of Creative Research Thoughts (IJCRT), ISSN:2320-2882, Volume.8, Issue 5, pp.1089-1093, May 2020.
+
+[6] Arpit Gupta, Harshit Gupta, Prateek Rathore, Sohan Sharma, Ramander Singh, "On Road Vehicle Breakdown Assistant", International Journal of Engineering Research and Applications (IJERA), ISSN : 2248-9622, Vol. 10, Issue 4, ( Series -VI) April 2020, pp. 50-54. 
+
+[6] Corti A., Manzoni V., Savaresi S.M., Santucci M.D., Di Tanna O. (2012) "A Centralized Real-Time Driver Assistance System for Road Safety Based on Smartphone", In: Meyer G. (eds) Advanced Microsystems for Automotive Applications 2012. Springer, Berlin, Heidelberg. 
