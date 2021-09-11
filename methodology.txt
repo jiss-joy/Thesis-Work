@@ -1,0 +1,35 @@
+===========
+Methodology
+===========
+
+In this section, the Android platform, Google Firebase, the different API's and algorithms being used are discussed.
+
+-------
+Android
+-------
+According to the recent survey, Google's Android Operating System holds a staggering 42.61% for the worldwide usage share. This proves the influence that Android has on the technological world and because Android is an open-source operating system, it may be found on even the most basic cell phones. As a result, people in even the most remote locations can now access the internet and use reliable location services, which this system utilises and can provide assisstance to anyone in distress due to vehicluar troubles and integrate the various possible support that can be provided during the trip.
+
+---------------
+Google Firebase
+---------------
+
+Google firebase is a Backend-as-a-Service (Baas) which provides a number of tools and services to assist developers create high-quality apps, expand their user base, and generate revenue. It is built on Google's technology. Firebase is a NoSQL database program that saves information in JSON-like documents. The system uses a NoSQL realtime database and allows phone authentication, both of which are provided by Google Firestore. The real-time database is responsible for swift service registration and the prompt assignment of the appropriate service provider.
+
+------------------------------------
+Appyflow GST Number Verification API
+------------------------------------
+GST Number Verification API is a service provided by Appyflow Technologies which verifies the GST Identication Number provided by the registering service provider so as to create a network of trust-worthy and qualified service providers. The API takes the GSTIN as input and verifies the service provider and provides the complete GST taxpayer details.  
+
+-----------------
+Mapbox Matrix API
+-----------------
+Mapbox Matrix API is a service provided by Mapbox Navigation Services which returns the travel time and distance between multiple points. The API creates a matrix depending on the coordinates that are specified. Because the routes may differ in direction due to one-way streets or turn limitations, the durations or distances between points may not be symmetric. For example, the time it takes to get from point A to point B could be different than the time it takes to get from point B to point A. The Matrix API allows you to evaluate the accessibility of coordinates from each other quickly, filter locations by trip time, and perform your own optimization algorithms.
+
+--------------
+Algorithm Flow
+--------------
+The service request from the user is taken and the cloud function filters out the service providers based on the state, district and the particular area attached along with the location details provided by the user. The filtered service providers are passed through the Mapbox Matrix API which provides the optimal set of service providers based on the time and duration to assist the user. The information is then processed to find the the ideal service provider based on their service rating, promixity to the user, and their expertise. This service provider is then assigned to the user and the their details are shared with the user for assurance.
+
+------
+Design
+------
