@@ -1,0 +1,13 @@
+=======
+Results
+=======
+
+The system is built to inculcate a simple interface which makes it easier for users, who will be in a state of panic during a vehicular trouble. Users will have to provide their address and the service that they require. If they are unaware of what the problem is, they can requst for a call and talk to the service provider and get detailed advise. 
+
+Figure 1 depicts the home page, which is a simple page with just a single button to register a request. An ongoing service request can be seen on this page as well. The user can slide over to the Services tab to see their previous services and provide feedbacks to improve the service provided. Also to the Profile tab to edit their personal details.
+
+Figure 2 depicts the request registration page, which asks for the users current location, and once the user's permission is acquired, their latitude and longitude is collected using the device GPS location services. They are also asked for the type of trouble that they are facing so that the service provider can provide the appropriate services for that situation. This data is sent over to the cloud function to start the search algorithm.
+
+The service providers are filtered based on the collected location data and the algorithm arrives at the ideal service provider. Figure 3 depicts the page where the allocated service provider details are displayed. The user can contact them for further details and explain the situation in a more elaborate way so that the service provider can come well equiped.
+
+The application is put through a couple of scenarios to fine tune the algorithm. In Table 1, the results show that the system provides a 90% success rate for the 10 test conducted on the system. It takes 2600 milliseconds on an average to allocate the service provider to the user. The failed test tries for 10000 milliseconds after which it informs the user to try again. The results are bound to improve with time, as the network of service providers increases, the failure rate and the allocation time will decrease accordingly. 
