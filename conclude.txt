@@ -1,0 +1,14 @@
+==========
+Conclusion
+==========
+
+An easy to access application in times of trouble is an essential tool in today's vehicle jammed society and the proposed system is a perfectly viable option as it is able to identify the trouble and request services for the same in the fastest way possible so that the user does not suffer at any cost. The application works in real-time, providing rapid response to the user and alerting the nearby service providers about the incident. The simple and efficient interface makes it easy for anyone to find help. With the verification of the service providers and their staff qualifications, a safe, quick and professional service is what the country is looking at. 
+
+Drawbacks
+> GPS location can be inaccurate sometimes.
+> Environmental conditions may deteriorate dramatically. In the event of a solar flare, for example, satellite signals may be disrupted. However, Government bodies announce them early so that users having GPS units can take precautions to avoid the problem. It could be a good idea for you to bring a map with you on those days.
+
+Future Scope
+> This application can be used on a larger scale in future and the users will get better experience as the network of service providers grows and the future inclusion of AI (artificial intelligence) to advance this application.
+> Towing and mechanic works at night will be easier with more safety precautions.
+> Services such as voice service and GPS location technologies will improve which in turn will be more accurate for determining user’s location.
